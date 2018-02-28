@@ -1,4 +1,4 @@
 # vpscraper
-A simple web-scraper
+A simple web-scraper for vinmonopolet.
 First edit
 Second edit
